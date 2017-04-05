@@ -3,3 +3,4 @@ hoge
 fuga
 gafu
 hoho
+can we download only one file?
